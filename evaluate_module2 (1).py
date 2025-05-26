@@ -120,7 +120,7 @@ def evaluate_notebooks(problem_path, solution_path, task_weightage):
                       "max_score", "timestamp", "remarks", "project"]]
 
 score_df = evaluate_notebooks(problem_notebook_path, solution_notebook_path, task_weightage)
-#score_df
+score_df
 
 
 
